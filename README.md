@@ -9,9 +9,6 @@ I’m currently pursuing a Master's in User Experience and aim to master the art
 
 Through my web coding coursework, I want to understand the relationship between user interface design and the underlying code that powers it.
 
-📫 How to reach me: ...
-- https://www.linkedin.com/in/anuja-gorhe-40710842/
-- https://www.behance.net/anujagorhe2
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugor&theme=dark" width="48%" >
 
