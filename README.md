@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there 👋
 
 <!--
 **anugor/anugor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing a Master's in User Experience and aim to master the art of creating intuitive and compelling digital experiences.
+
+Through my web coding coursework, I want to understand the relationship between user interface design and the underlying code that powers it.
+
+📫 How to reach me: ...
+- https://www.linkedin.com/in/anuja-gorhe-40710842/
+- https://www.behance.net/anujagorhe2
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anugor&theme=dark" width="48%" >
+
+
+<img src="https://myreadme.vercel.app/api/embed/anugor?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
